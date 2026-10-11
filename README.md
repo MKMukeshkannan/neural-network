@@ -6,6 +6,7 @@ NOTE: lot of thing are hardcoded and not extensible right now!!
 ```sh
 clang src/main.c -o main && ./main
 ```
+![SampleVideo](https://github.com/user-attachments/assets/2e7d72b5-f838-4d0f-87b4-8c569d454ed7)
 
 # HOW DID I DO IT
 ### DATASTRUCTURE:
